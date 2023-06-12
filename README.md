@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mairabermeo
 - 👀 I’m interested in documentarues, music, and writing. 
-- 🌱 I’m currently learning C++. 
+- 🌱 I’m currently learning C++, Java, and Python! 
 - 💞️ I’m looking to collaborate on new projects I feel passionate about 
 - 📫 How to reach me www.linkedin.com/in/mairabermeo
 
